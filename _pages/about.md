@@ -17,7 +17,7 @@ This website is under continuous construction, more documents and recent progres
 
 Research Interests
 ------
-Neuromorphic Computing and Physical Neural Networks, Nano-Optoelectronic Systems, Quantum Optics, Ultrafast Laser and Nonlinear Optics, Light-Matter Interactions (AMO Physics)
+<b>Neuromorphic Computing and Physical Neural Networks, Nano-Optoelectronic Systems</b>, Quantum Optics, Ultrafast Laser and Nonlinear Optics, Light-Matter Interactions (AMO Physics)
 
 Education Experience
 ------
