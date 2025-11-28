@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Yushu Wang"
 title_separator          : "-"
 name                     : &name "Yushu Wang"
-description              : &description "Senior undergraduate student at HUST"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Fourth-year undergraduate student at HUST"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yushuwang.top # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "yushuwang-anicyfellis/yushuwang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Yushu (Anicyfellis) Wang"
+  pronouns         : 
+  bio              : "Fourth-year undergraduate student at HUST"
+  location         : "Wuhan, China"
+  employer         : "Huazhong University of Science and Technology"
+  uri              : 
+  email            : "wys_anicy@hust.edu.cn" "anicywys.hust@gmail.com"
 
   # Academic websites
   academia         : # URL
