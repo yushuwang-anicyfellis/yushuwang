@@ -6,14 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p><b> A Senior Undergraduate Student </b></p>
+<p><b> A Fourth-year Undergraduate Student </b></p>
 <p><i> School of Optical and Electronic Information @ Huazhong University of Science and Technology (HUST) </i></p>
 
-Warm welcome to my website!
+Warm welcome to my website! I’m Yushu Wang, born in May 2004 in Hubei, China. Currently I’m a fourth-year undergraduate student at HUST, advised by [Prof. Chao Wang](https://ieeexplore.ieee.org/author/37088353491) and [Prof. Jiahui Peng](http://faculty.hust.edu.cn/pengjiahui/en/index.htm).  
 
-I’m Yushu Wang, born in May 2004 in Hubei, China.
-
-<b>I'd like to share my excitement of Quantum Optical Intelligence with you!</b>
+<b>I'd like to share my excitement of Quantum Optical Intelligence with you :) </b>
 
 This website is under continuous construction, more documents and recent progress coming soon!
 
@@ -39,7 +37,7 @@ Working & Industrial Experience
 Honors and Awards
 ------
 * Scholarship for Future Technology "Taihu" (8 Teams school-wide, May 2024)
-* Scholarship for Scientific and Technological Innovation (top 3.75%, 2023-2024)
-* Scholarship for Scientific and Technological Innovation (top 3.75%, 2024-2025)
+* Scholarship for Scientific and Technological Innovation (12/400, Academic Year 2023-2024)
+* Scholarship for Scientific and Technological Innovation (15/400, Academic Year 2024-2025)
 
 
