@@ -29,9 +29,9 @@ Education Experience
 
 Working & Industrial Experience
 ------
-(1) Jun.2025 - July.2025: University of Padova (UNIPD)
+(1) Jun.2025 - July.2025: <b>University of Padova (UNIPD)</b>
 * <b> Visiting Internship </b> in Department of Industrial Engineering
-* <b> Project: Simulation and Design of LED-based Solar Simulators and Other Illuminators </b>
+* <b> Project</b>: Simulation and Design of LED-based Solar Simulators and Other Illuminators 
 * Advisor: [Prof. Nicola Trivellin](https://scholar.google.com/citations?user=bp2OyKgAAAAJ&hl=en)
 
 Honors and Awards
