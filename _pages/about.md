@@ -6,9 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-** <b> Senior undergraduate student</b> **
-** <i> School of Optical and Electronic Information @ Huazhong University of Science and Technology (HUST) </i> **
-
+<p><b> A Senior Undergraduate Student </b></p>
+<p><i> School of Optical and Electronic Information @ Huazhong University of Science and Technology (HUST) </i></p>
 Warm welcome to my website!
 
 
