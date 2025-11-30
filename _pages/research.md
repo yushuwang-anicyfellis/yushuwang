@@ -1,7 +1,7 @@
 ---
 permalink: /research/
-title: "Yushu (Anicyfellis) Wang 王 昱澍"
-author_profile: true
+title: "Quantum Optical Intelligence"
+author_profile: false
 redirect_from: 
   - /research.html
 ---
