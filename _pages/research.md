@@ -28,7 +28,6 @@ LED-based Solar Simulators
 <td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/illu.png" width=300></td>
 <td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/panel.png" width=300></td>
 </tr></table>
-<p>[June - July 2025, University of Padova] <b>Visiting Internship, advised by Prof. Nicola Trivellin</b><p>
 
 Two-dimensional Quantum Walk Reservoir Computing
 ------
