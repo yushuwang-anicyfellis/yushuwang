@@ -9,7 +9,7 @@ redirect_from:
 <p><b> A Fourth-year Undergraduate Student </b></p>
 <p><i> School of Optical and Electronic Information @ Huazhong University of Science and Technology (HUST) </i></p>
 
-Welcome! I’m Yushu Wang, born in May 2004 in Hubei, China. Currently I’m a fourth-year undergraduate student at HUST, advised by [Prof. Chao Wang](https://ieeexplore.ieee.org/author/37088353491) and [Prof. Jiahui Peng](http://faculty.hust.edu.cn/pengjiahui/en/index.htm). I'm working on quantum optical neuromorphic computing at micro/nano scale now. Building up an optical brain or even a quantum brain is an irresistible topic for me.
+Welcome! I’m Yushu Wang, born in May 2004 in Hubei, China. Currently I’m a fourth-year undergraduate student at HUST, advised by [Prof. Chao Wang](https://ieeexplore.ieee.org/author/37088353491) and [Prof. Jiahui Peng](http://faculty.hust.edu.cn/pengjiahui/en/index.htm). I'm working on quantum optical neuromorphic computing at micro/nano scale now. Building up an optical brain or even a quantum brain is an irresistible topic for me!
 
 <b>I'd like to invite you to check my [Research Page](https://yushuwang.top/research/). I'm always glad to share my excitement of Quantum Optical Intelligence with you :) </b>
 
