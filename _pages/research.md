@@ -28,4 +28,6 @@ Two-dimensional Quantum Walk Reservoir Computing
 Optical Matrices for Coherent Ising Machine
 ------
 <div id="Section1"></div>
-<img src="" align="center">
+<img src="images/image036.png" align="center">
+<img src="images/bifurcation.png" align="center">
+<img src="images/图片2.png" align="center">
