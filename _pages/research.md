@@ -15,19 +15,36 @@ My aspiration: <b>to develop a quantum optical neuromorphic computing system pos
 Compact All-PM Fiber Femtosecond Laser
 ------
 <div id="Section4"></div>
+<table><tr>
+<td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/0.035.png" width=500></td>
+<td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/1.png" width=500></td>
+</tr></table>
 
 LED-based Solar Simulators
 ------
 <div id="Section3"></div>
+<table><tr>
+<td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/0.035.png" width=300></td>
+<td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/illu.png" width=300></td>
+<td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/panel.png" width=300></td>
+</tr></table>
+<p>[June - July 2025, University of Padova] <b>Visiting Internship, advised by Prof. Nicola Trivellin</b><p>
+* Developed an illuminator simulation system in MATLAB, capable of simulating the irradiance and spectrum distribution on the target plane, with LED types (working current, divergence angle and so on), positions, and target plane range adjustable.
+* Selected appropriate LED types according to the simulation results. Designed the footprint and 3D model of LEDs and sensors in Autodesk Fusion 360. Designed circuit schematic, routed, and generated PCB board Gerber files.
+* Assemble master boards with LED PCBs, and completed 1/8 solar simulator in lab. Carried out a series of measurements related to the solar simulator’s Volt-Ampere characteristics, calibration and thermal effects.
 
 Two-dimensional Quantum Walk Reservoir Computing
 ------
 <div id="Section2"></div>
-
+<table><tr>
+<td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/sv.png" height=400></td>
+</tr></table>
 
 Optical Matrices for Coherent Ising Machine
 ------
 <div id="Section1"></div>
-<img src="images/image036.png" align="center">
-<img src="images/bifurcation.png" align="center">
-<img src="images/图片2.png" align="center">
+<table><tr>
+<td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/图片2.png" width=300></td>
+<td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/image036.png" width=300></td>
+<td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/bifurcation.png" width=300></td>
+</tr></table>
