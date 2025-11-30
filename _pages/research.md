@@ -16,8 +16,8 @@ Compact All-PM Fiber Femtosecond Laser
 ------
 <div id="Section4"></div>
 <table><tr>
-<td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/0.035.png" width=500 alt="S41"></td>
-<td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/1.png" width=500 alt="S42"></td>
+<td><img src="images/0.035.png" width=500 alt="S41"></td>
+<td><img src="images/1.png" width=500 alt="S42"></td>
 </tr></table>
 
 LED-based Solar Simulators
@@ -33,14 +33,14 @@ Two-dimensional Quantum Walk Reservoir Computing
 ------
 <div id="Section2"></div>
 <table><tr>
-<td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/sv.png" height=400 alt="S21"></td>
+<td><img src="images/sv.png" height=400 alt="S21"></td>
 </tr></table>
 
 Optical Matrices for Coherent Ising Machine
 ------
 <div id="Section1"></div>
 <table><tr>
-<td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/图片2.png" width=300 alt="S11"></td>
-<td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/image036.png" width=300 alt="S12"></td>
-<td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/bifurcation.png" width=300 alt="S13"></td>
+<td><img src="images/图片2.png" width=300 alt="S11"></td>
+<td><img src="images/image036.png" width=300 alt="S12"></td>
+<td><img src="images/bifurcation.png" width=300 alt="S13"></td>
 </tr></table>
