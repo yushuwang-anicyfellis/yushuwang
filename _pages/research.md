@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: "Quantum Optical Intelligence"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /research.html
 ---
