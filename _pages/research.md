@@ -5,14 +5,7 @@ author_profile: false
 redirect_from: 
   - /research.html
 ---
-<p><b> A Fourth-year Undergraduate Student </b></p>
-<p><i> School of Optical and Electronic Information @ Huazhong University of Science and Technology (HUST) </i></p>
-
-Welcome! I’m Yushu Wang, born in May 2004 in Hubei, China. Currently I’m a fourth-year undergraduate student at HUST, advised by [Prof. Chao Wang](https://ieeexplore.ieee.org/author/37088353491) and [Prof. Jiahui Peng](http://faculty.hust.edu.cn/pengjiahui/en/index.htm). I'm working on quantum optical neuromorphic computing at micro/nano scale now. <b>My ambition is to develop a quantum optical neuromorphic computing system possessing compactness and compatibility of a real brain!</b>
-
-<b>I'd like to invite you to check my [Research Page](https://yushuwang.top/research/). I'm always glad to share my excitement of Quantum Optical Intelligence with you :) </b>
-
-This website is under continuous construction, more documents and recent progress coming soon!
+The begin of my journey in optical computing: <a href="#Section1">Optical Matrices for Coherent Ising Machine</a>
 
 Research Interests
 ------
@@ -35,6 +28,7 @@ Working & Industrial Experience
 
 Honors and Awards
 ------
+<div id="Section1">Optical Matrices for Coherent Ising Machine</div>
 * Scholarship for Future Technology "Taihu" (8 Teams school-wide, May 2024)
 * Scholarship for Scientific and Technological Innovation (12/400, Academic Year 2023-2024)
 * Scholarship for Scientific and Technological Innovation (15/400, Academic Year 2024-2025)
