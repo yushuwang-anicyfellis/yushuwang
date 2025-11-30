@@ -19,6 +19,9 @@ Compact All-PM Fiber Femtosecond Laser
 <td><img src="/images/1.png" width=500 alt="S42"></td>
 </tr></table>
 
+<p>[Sept.2025 - present, Huazhong University of Science and Technology] <b>Graduate Design, advised by Prof. Jiahui Peng</b></p>
+* Keywords
+
 LED-based Solar Simulators
 ------
 <div id="Section3"></div>
@@ -28,12 +31,19 @@ LED-based Solar Simulators
 <td><img src="/images/panel.png" width=300 alt="S33"></td>
 </tr></table>
 
+<p>[Jun.2025 - Jul.2025, University of Padova] <b>Visiting Internship, advised by Prof. Nicola Trivellin</b></p>
+* Keywords
+
 Two-dimensional Quantum Walk Reservoir Computing
 ------
 <div id="Section2"></div>
 <table><tr>
 <td><img src="/images/sv.png" height=400 alt="S21"></td>
 </tr></table>
+
+<p>[Mar.2024 - Mar.2025, Huazhong University of Science and Technology] <b>National-level Undergraduate Innovation Project, advised by Prof. Chao Wang</b></p>
+
+* Keywords:
 
 Optical Matrices for Coherent Ising Machine
 ------
@@ -43,3 +53,7 @@ Optical Matrices for Coherent Ising Machine
 <td><img src="/images/image036.png" width=300 alt="S12"></td>
 <td><img src="/images/bifurcation.png" width=300 alt="S13"></td>
 </tr></table>
+
+<p>[Mar.2023 - Mar.2024, Huazhong University of Science and Technology] <b>National-level Undergraduate Innovation Project, advised by Prof. Chao Wang</b></p>
+
+* Keywords: 
