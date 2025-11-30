@@ -16,23 +16,23 @@ Compact All-PM Fiber Femtosecond Laser
 ------
 <div id="Section4"></div>
 <table><tr>
-<td><img src="images/1.png" width=500 alt="S42"></td>
+<td><img src="/images/1.png" width=500 alt="S42"></td>
 </tr></table>
 
 LED-based Solar Simulators
 ------
 <div id="Section3"></div>
 <table><tr>
-<td><img src="images/0.035.png" width=300 alt="S31"></td>
-<td><img src="images/illu.png" width=300 alt="S32"></td>
-<td><img src="images/panel.png" width=300 alt="S33"></td>
+<td><img src="/images/0.035.png" width=300 alt="S31"></td>
+<td><img src="/images/illu.png" width=300 alt="S32"></td>
+<td><img src="/images/panel.png" width=300 alt="S33"></td>
 </tr></table>
 
 Two-dimensional Quantum Walk Reservoir Computing
 ------
 <div id="Section2"></div>
 <table><tr>
-<td><img src="images/sv.png" height=400 alt="S21"></td>
+<td><img src="/images/sv.png" height=400 alt="S21"></td>
 </tr></table>
 
 Optical Matrices for Coherent Ising Machine
