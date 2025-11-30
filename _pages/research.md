@@ -29,9 +29,6 @@ LED-based Solar Simulators
 <td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/panel.png" width=300></td>
 </tr></table>
 <p>[June - July 2025, University of Padova] <b>Visiting Internship, advised by Prof. Nicola Trivellin</b><p>
-* Developed an illuminator simulation system in MATLAB, capable of simulating the irradiance and spectrum distribution on the target plane, with LED types (working current, divergence angle and so on), positions, and target plane range adjustable.
-* Selected appropriate LED types according to the simulation results. Designed the footprint and 3D model of LEDs and sensors in Autodesk Fusion 360. Designed circuit schematic, routed, and generated PCB board Gerber files.
-* Assemble master boards with LED PCBs, and completed 1/8 solar simulator in lab. Carried out a series of measurements related to the solar simulator’s Volt-Ampere characteristics, calibration and thermal effects.
 
 Two-dimensional Quantum Walk Reservoir Computing
 ------
