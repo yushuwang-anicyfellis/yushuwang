@@ -24,9 +24,9 @@ LED-based Solar Simulators
 ------
 <div id="Section3"></div>
 <table><tr>
-<td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/0.035.png" width=300 alt="S31"></td>
-<td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/illu.png" width=300 alt="S32"></td>
-<td><img src="https://github.com/yushuwang-anicyfellis/yushuwang/blob/38ab5deb7c6d05d38c9f442200a971e8060f0528/images/panel.png" width=300 alt="S33"></td>
+<td><img src="images/0.035.png" width=300 alt="S31"></td>
+<td><img src="images/illu.png" width=300 alt="S32"></td>
+<td><img src="images/panel.png" width=300 alt="S33"></td>
 </tr></table>
 
 Two-dimensional Quantum Walk Reservoir Computing
