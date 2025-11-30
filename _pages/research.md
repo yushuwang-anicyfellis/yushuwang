@@ -20,6 +20,7 @@ Compact All-PM Fiber Femtosecond Laser
 </tr></table>
 
 <p>[Sept.2025 - present, Huazhong University of Science and Technology] <b>Graduate Design, advised by Prof. Jiahui Peng</b></p>
+
 * Keywords
 
 LED-based Solar Simulators
@@ -32,7 +33,9 @@ LED-based Solar Simulators
 </tr></table>
 
 <p>[Jun.2025 - Jul.2025, University of Padova] <b>Visiting Internship, advised by Prof. Nicola Trivellin</b></p>
-* Keywords
+
+* Keywords:
+
 
 Two-dimensional Quantum Walk Reservoir Computing
 ------
