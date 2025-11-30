@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yushu (Anicyfellis) Wang 王昱澍"
+title: "Yushu (Anicyfellis) Wang 王 昱澍"
 author_profile: true
 redirect_from: 
   - /about/
