@@ -47,8 +47,8 @@ Two-dimensional Quantum Walk Reservoir Computing
 <p>[Mar.2024 - Mar.2025, Huazhong University of Science and Technology] <b>National-level Undergraduate Innovation Project, advised by Prof. Chao Wang</b></p>
 
 * Keywords:
-* Paper Manuscript <b>(ACP2025)</b>: <a href="/documents/Manuscript">An Optical Reservoir Computing Design based on Two-Dimensional Quantum Walk</a>
-* <p>Slides: <a href="/documents/Slides">Slides_ACP2025_YushuWang</a></p>
+* Paper Manuscript <b>(ACP2025)</b>: <a href="https://github.com/yushuwang-anicyfellis/yushuwang/blob/ff24afe620375f8682c2f35f21ef1ed383da02f1/_pages/documents/Manuscript.pdf">An Optical Reservoir Computing Design based on Two-Dimensional Quantum Walk</a>
+* <p>Slides: <a href="https://github.com/yushuwang-anicyfellis/yushuwang/blob/ff24afe620375f8682c2f35f21ef1ed383da02f1/_pages/documents/Slides.pdf">Slides_ACP2025_YushuWang</a></p>
   <p>Oral Presentation Video is available here: <a href="https://youtu.be/1uGZoiy1V9w">Talk at ACP2025: An Optical Reservoir Computing Design based on Two-dimensional Quantum Walk</a></p>
 
 Optical Matrices for Coherent Ising Machine
