@@ -51,7 +51,7 @@ Two-dimensional Quantum Walk Reservoir Computing
 * <p>Slides: <a href="https://github.com/yushuwang-anicyfellis/yushuwang/blob/ff24afe620375f8682c2f35f21ef1ed383da02f1/_pages/documents/Slides.pdf">Slides_ACP2025_YushuWang</a></p>
   <p>Oral Presentation Video is available here: <a href="https://youtu.be/1uGZoiy1V9w">Talk at ACP2025: An Optical Reservoir Computing Design based on Two-dimensional Quantum Walk</a></p>
 
-Optical Matrices for Coherent Ising Machine
+Integrated Optical Matrices for Coherent Ising Machine
 ------
 <div id="Section1"></div>
 <table><tr>
