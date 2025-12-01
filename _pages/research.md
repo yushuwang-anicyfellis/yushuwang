@@ -16,9 +16,10 @@ Compact All-PM Fiber Femtosecond Laser
 ------
 <div id="Section4"></div>
 <table><tr>
+<td><img src="/images/2.png" width=500 alt="S41"></td>
 <td><img src="/images/1.png" width=500 alt="S42"></td>
 </tr></table>
-
+<p>* Due to copyright regulations, schematic diagram is not fully shown here *</p>
 <p>[Sept.2025 - present, Huazhong University of Science and Technology] <b>Graduate Design, advised by Prof. Jiahui Peng</b></p>
 
 * Keywords
