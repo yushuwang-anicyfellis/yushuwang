@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /research.html
 ---
+At the very beginning, I'd like to recommend <b><a href="https://www.nature.com/articles/s42254-023-00645-5">Prof. McMahon's wonderful perspective</a></b> for a quick look into optical computing, especially for its quantum properties.
 <p>My journey in optical computing began with: <a href="#Section1">Optical Matrices for Coherent Ising Machine</a>, a continuous work is on <a href="#Section2">Two-dimensional Quantum Walk Reservoir Computing</a>.</p>
 
 My aspiration: <b>to develop a quantum optical neuromorphic computing system possessing compactness and compatibility of brain</b>.  Two pathways are highlighted by my former research experiences as promising ways leading to my aspiration:
@@ -22,7 +23,7 @@ Compact All-PM Fiber Femtosecond Laser
 <p>* Due to copyright regulations, schematic diagram is not fully shown here *</p>
 <p>[Sept.2025 - present, Huazhong University of Science and Technology] <b>Graduate Design, advised by Prof. Jiahui Peng</b></p>
 
-* Keywords
+* Keywords: Ultrafast laser, Light-matter interactions, Nonlinear Schrodinger Equation(NLSE)
 
 LED-based Solar Simulators
 ------
