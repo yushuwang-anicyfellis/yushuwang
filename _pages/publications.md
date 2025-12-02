@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications coming soon!"
 permalink: /publications/
 author_profile: true
 ---
 
-Publications coming soon!
-======
+
 * Nearest conference paper on ACP 2025 will be available on IEEE Xplore by Jan. 2026. Cheers!
 
 <!-- {% if site.author.googlescholar %}
